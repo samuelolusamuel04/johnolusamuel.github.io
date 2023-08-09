@@ -412,22 +412,22 @@ main .container .left .profile{
 }
 
 .middle .stories .story:nth-child(1){
-    background: url(Img18.jpg) no-repeat center center/cover;
+    background: url(Images/Img18.jpg) no-repeat center center/cover;
 }
 .middle .stories .story:nth-child(2){
-    background: url(Img19.jpg) no-repeat center center/cover;
+    background: url(Images/Img19.jpg) no-repeat center center/cover;
 }
 .middle .stories .story:nth-child(3){
-    background: url(Img25.jpg) no-repeat center center/cover;
+    background: url(Images/Img25.jpg) no-repeat center center/cover;
 }
 .middle .stories .story:nth-child(4){
-    background: url(Img21.jpg) no-repeat center center/cover;
+    background: url(Images/Img21.jpg) no-repeat center center/cover;
 }
 .middle .stories .story:nth-child(5){
-    background: url(Img22.jpg) no-repeat center center/cover;
+    background: url(Images/Img22.jpg) no-repeat center center/cover;
 }
 .middle .stories .story:nth-child(6){
-    background: url(Img15.jpg) no-repeat center center/cover;
+    background: url(Images/Img15.jpg) no-repeat center center/cover;
 }
 
 .middle .stories .story .profile-photo{
